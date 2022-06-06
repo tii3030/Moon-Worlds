@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "subversive",
+    "slug": "subversive",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "subversive"
+}
